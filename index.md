@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Police Brutality
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/PoliceBrutality.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://media.newyorker.com/photos/5f244f0cda874d6b0013799c/1:1/w_1707,h_1707,c_limit/RadioHour-PoliceUnion.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Police Brutality <br>
+作者：Gregory Ashe <br>
+评分：4.6/5 <br>
 
-### Markdown
+关键词：Drama King新搭档；绿茶男；喜剧；👮死亡；求婚
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+格力高县级市卷八，目前为止最不虐的一部，在这一部里Hazard和Somers的感情仍然是各种纠结，不过两人全程有各种甜蜜互动，尤其是Somers新搭档Dulac不断”插足”两人情感更是弄得充满笑点，最重要的是两人的感情在最后一章正式迈入一座新的殿堂啦。而探案线也完全不虐(卷五和卷七看得我想哭)，案件还挺直接的也没死什么人。
 
-```markdown
-Syntax highlighted code block
+这本最大的看点是Somers的新搭档Dulac, Dulac虽然是Gay，但他是一个彻头彻尾的frat boy/fxckboy，他身上还自带震慑全场的drama属性. 被无数读者冠以”小恶霸“的Somers在Dulac面前乖巧(?)得像只猫，刚开始Somers对Dulac婊里婊气的态度心生厌恶，但很快就被他吃得死死的，每次Dulac开Somers和Hazard各种老年黄色玩笑，Somers都表面很气但实际内心开熏死了。
 
-# Header 1
-## Header 2
-### Header 3
+很多篇县级市卷二(风雪夜别墅杀人案)的扫文都说Somers当时可真是个绿茶，但这一部里Dulac的茶气有过之而无不及。他用着正牌男友Hazard原来的工作桌，又是插🌈旗又是在办公室挂横幅”Somers and Dulac: The New Power Couple“，Hazard来给男友Somers办公室探亲时看到这些差点被气死。Dulac还擅长甜言蜜语，他无数次和Somers说他和Hazard是自己的精神模范，他们两人的爱情自己也梦寐以求，然后一转头就悄悄告诉Somers自己的各种约P细节，哭诉自己找不到真爱，哭唧唧求Somers给自己情感建议，Somers瞬间被自己这么可爱的搭档打动(原文里Hazard妒火中烧都不得不承认Dulac很cute)，主动帮助Dulac走出了许多情感难关。然而Dulac仍不满足，仍然三翻四次地问Somers想不想threeway。
 
-- Bulleted
-- List
+Hazard肯定是气死了，Dulac和Somers站在一起CP感简直溢出屏幕，他一开始对Dulac冷眼相对，一次忍无可忍把他按在墙上教训他，然而Dulac可不是省油的灯，每次在Somers面前，他反而更加热情地对待Hazard。一次Hazard不按程序办案给Somers惹了麻烦，Somers劝说Hazard不能再贸然行动，但Hazard却不以为然还准备和Somers吵架，Dulac立刻抓住机会挺身而出维护Somers结果被Hazard打了全靠Somers把两人拉开。
 
-1. Numbered
-2. List
+Hazard对Dulac的厌恶不断恶化，但Dulac仍然表现得热情洋溢，一次Dulac告诉Somers说Hazard邀请了自己今晚去Somers家吃晚餐。然而实际上Hazard并没有，所以当Somers问起Hazard这件事时Hazard怒火中烧但还是决定会会这个绿茶。好死不死的是晚餐前Hazard和Somers因为Hazard死活不肯结婚发生了激烈的争吵，Somers一顶嘴结果Hazard在做饭直接把滚烫的菜锅隔空扔了过去，打破了墙壁弄得厨房一片狼藉。这时Dulac姗姗驾到，Somers作为主人只好当做无事发生强装笑脸迎客，扔下Hazard一个人在厨房收拾。亲手做的晚餐自然是凉了，Somers给Dulac订了披萨，两人在客厅里喝着啤酒嬉闹，Hazard在厨房里听的一清二楚。Dulac坐在Somers两腿中间，Somers给他肩膀按摩，Dulac一边呻吟一边称赞Somers的手艺，还说自己隔着衣服按摩不太舒服惹，问Somers可不可以把上衣脱了。Hazard在厨房里听得大脑一片空白，而Dulac的大戏还没上场。在Somers喝醉以后，Dulac大声对Somers说”我不明白Hazard怎么能这么对你，要是你和我在一起，我一定会好好对你！！“
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/PoliceBrutality.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+然而就是这个一个人物却让人怎么也讨厌不起来，用嘎妈妈的话来说，就是可能是因为Dulac穿着的方式，以及他身上散发出来的那种诱惑。Dulac满嘴的dude, bro, fxck让他整个人感觉就是一个阳光无脑的大胸弟，他外表看起来高大健壮，但走近以后又会突然卸下心防对你哭唧唧地袒露各种烦恼(让我直接怀疑他是不是最终卷的大boss)，这种strong-but-vulnerable的气质让所有人都对他心生保护欲，就连Hazard最终居然也沦陷了。Dulac最终在Somers的帮助下追到了他的男友，由于这个男友有一些比较诡异的地方，Hazard还忍不住担心Dulac的安全。
